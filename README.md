@@ -148,7 +148,7 @@ If the Python application cannot detect the Arduino:
 
 ## Files Description
 
-- **FP_sensor__UPDATED.ino**: Arduino sketch for fingerprint sensor control
+- **FP_sensor.ino**: Arduino sketch for fingerprint sensor control
 - **attendance_system.py**: Python application for the GUI and database management
 - **attendance_logs_*.csv**: Exported attendance data files
 
